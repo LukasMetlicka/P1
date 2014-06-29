@@ -1,0 +1,25 @@
+h1 {
+	font-size: 20px;
+	font-weight: bold;
+}
+p {
+	text-align: left;
+}
+.img {
+	width: 100%;
+	float: center;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+.col1 {
+	float: left;
+	width: 50%;
+	text-align: center;
+	
+}
+.col2 {
+	float: right;
+	width: 50%;
+	text-align: center;
+	
+}
