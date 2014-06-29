@@ -1,3 +1,14 @@
+
+body {
+	background-image: url("Images/background.png");
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+}
+.content {
+	float: center;
+}
 h1 {
 	font-size: 20px;
 	font-weight: bold;
@@ -11,15 +22,47 @@ p {
 	margin-left: 25%;
 	margin-right: 25%;
 }
+.propic {
+	background-color: rgba(0,0,0,0.50);
+	border-color: rgba(0,0,0,0.50);
+	border-width: medium;
+	padding: 12px;
+	}
 .col1 {
 	float: left;
-	width: 50%;
+	width: 42%;
 	text-align: center;
+	padding: 10px;
 	
 }
 .col2 {
 	float: right;
-	width: 50%;
+	width: 42%;
 	text-align: center;
+	padding: 10px;
 	
+}
+.b1 {
+	background-color: rgba(0,0,0,0.50);
+}
+.b2 {
+	background-color: rgba(0,0,0,0.50);
+}
+.b3 {
+	background-color: rgba(0,0,0,0.50);
+}
+.b4 {
+	background-color: rgba(0,0,0,0.50);
+}
+.b5 {
+	background-color: rgba(0,0,0,0.50);
+}
+.b6 {
+	background-color: rgba(0,0,0,0.50);
+}
+.b7 {
+	background-color: rgba(0,0,0,0.50);
+}
+.b8 {
+	background-color: rgba(0,0,0,0.50);
 }
