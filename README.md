@@ -7,4 +7,4 @@ http://project1-lukasmetlicka.gopagoda.com/
 
 Notes:
 ------
-Pagoda website error as posted on Piazza,unable to create a Pagoda page.
+Pagoda doesn't seem to see my stylesheet. It is listed in the index, but a very old version of it. Github sees the most updated version. Pagoda also doesn't recognize index.html and go straight to that, despite having my directory set up correctly.
